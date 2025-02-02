@@ -1,132 +1,159 @@
+Here's the extracted stock market news:
+
+* Levi Strauss beats quarterly revenue estimates with $1.84 billion in revenue, exceeding analysts' average estimate of $1.73 billion.
+* Google and ServiceNow announce new partnership focused on enterprise AI growth.
+* Tesla Q4 earnings miss the mark, as full-year adjusted net income drops 23%.
+* Fed rate decision: Dow, Nasdaq, S&P 500 slip, Nvidia falls as Fed leaves rates unchanged.
+* Intel will report its Q4 earnings after the bell Thursday.
+* Apple to report Q1 earnings a week after stock hit with multiple downgrades.
+* 'I prefer across the board': Trump's top tariff man favors broad duties for a range of issues — including AI
+* IBM beats profit estimates as software business surges on AI shift.
+* TSLA (Tesla) reported fourth quarter earnings after the bell on Wednesday.
+
+Here are the stock market news extracted from the text:
+
+1. **Netflix adds a convenient feature for iOS users**: Netflix announced that it's giving iOS users a new feature that allows them to download an entire season of their favorite TV show with one tap.
+2. **Meta earnings live updates**: Meta's earnings call is today at 5 pm ET, and analysts are focused on AI monetization efforts and DeepSeek.
+
+Note: These are the only two stock market-related news mentions in the provided text. If you would like me to extract news related to other companies or industries (e.g., Amazon, Tesla, etc.), please let me know!
+
+Here are the stock market news extracted from the text:
+
+1. **Nvidia**: CEO Jensen Huang lays out his vision for the future and advises young people to be adaptable in a rapidly changing world.
+2. **Fed hits pause on interest rate cuts**: The Federal Reserve on Wednesday hit pause on interest rate cuts, marking its first key decision of President Donald Trump's second term.
+3. **Nasdaq falls 0.51%**: The Nasdaq 19,632.32 fell 101.26 (-0.51%) due to a market downturn.
+4. **Dow Jones falls 0.31%**: The Dow Jones 30,000.00 fell 136.83 (-0.31%) in a similar market trend.
+5. **S&P 500 loses 28.39 points**: The S&P 500 index closed at 6,039.31, down 28.39 (-0.47%) from its previous close.
+
+These are the only specific stock market news mentioned in the text. Let me know if you'd like me to extract any other information.
+
 Here are the extracted stock market news:
 
-1. **Avenue Supermarts Share Price**: The stock saw a sharper decline and is now trading below its 200-day exponential moving average (DEMA). It had attempted to hold above this level but dropped following a disappointing second-quarter performance.
-2. **Elcid Share Price Surge**: Elcid's share price skyrocketed 66,92,535%, climbing from Rs 3.53 to Rs 2,36,250. This impressive surge has made Elcid India's most expensive stock, surpassing MRF, which closed at Rs 1,22,576 per share on Tuesday.
-3. **EFC secures SM REIT approval**: EFC (I) Limited's subsidiary received SEBI approval for SM REIT, enabling a ₹500 crore initial offer. The company reported a 230.26% profit increase, boosting its growth potential.
-4. **Auto stocks cooling down**: Cooling is a part of long journey of structural change; 7 auto stocks with an upside potential of up to 38%.
-5. **NSE crosses 20 crore client accounts**: The National Stock Exchange (NSE) announced it had exceeded 20 crore client accounts in October, marking a growth of 3.1 crore in the past eight months.
-6. **Elcid shares are worth more than Nvidia and FANG stocks combined**: On Tuesday, Elcid's share price surged from Rs 3.53 to an astounding Rs 2,36,250, setting a record on D-Street and making it India's most expensive stock, surpassing MRF's Rs 1.2 lakh.
-7. **Elcid Investments: The microcap stock which paid dividend 7 times its share price**: In FY24, the company gave a dividend of Rs 25 in FY24, which translates into an industry best dividend yield of over 708%.
-8. **Cipla, Voltas among 5 stocks with short buildup**: A short buildup occurs when there is a rise in open interest and trading volumes, coupled with a decrease in the price of the underlying stock in the Futures and Options segment.
-9. **Marico shares surge 9% after reporting 20% YoY jump in Q2 PAT**: Marico's share price surged 9% after reporting a 20% year-on-year (YoY) jump in second-quarter profit after tax (PAT).
+1. Wall Street is growing more bullish on Tesla's AI push ahead of earnings, with analysts seeing the stock can keep rising on a "golden age" for automation and AI.
+2. Fed rate decision, stock market updates: Dow, Nasdaq, S&P 500 slip, Nvidia falls as Fed leaves rates unchanged.
+3. Meta earnings live updates: Wall Street watching for AI monetization, reaction to DeepSeek mania.
+4. Tesla Q4 earnings miss the mark, as full-year adjusted net income drops 23%.
+5. Intel will report its Q4 earnings as company seeks permanent CEO.
+6. Apple to report Q1 earnings a week after stock hit with multiple downgrades.
+7. Nvidia falls 4% after report of potential additional curbs on China sales.
+8. Retail investors poured money into Nvidia shares as the stock saw its largest single-day drop since March 2020.
+9. DeepSeek clouds AI picture just as Big Tech is set to report earnings.
+10. GM stock has gotten hit hard on earnings, amid punishment amid latest earnings report.
+11. Starbucks CEO says a turnaround is underway, with no timeline on the table.
+12. DJT stock pops after Trump Media announces expansion into financial services.
 
-Unfortunately, I don't see any text provided in your request. Please copy and paste the text you'd like me to extract stock market news from, and I'll be happy to assist you!
+Additionally, there are some news related to the Federal Reserve:
 
-Here is the extracted stock market news:
+* The Fed held interest rates steady Wednesday as policymakers weigh the direction of inflation and the potential effect of economic policies expected from the new Trump administration.
+* The biggest Fed change investors will see coming: Morning Brief
+* The January Fed meeting might be considered rather pro format, given no one expects a policy change. But there are some interesting and important questions under the surface that investors may get at least some answers to.
 
-**Gainers & Losers**
+And finally, there is some news related to stock market performance:
+
+* Stock market today: Nasdaq jumps to
+
+Here are the stock market news extracted from the given text:
+
+1. Brinker International's (BRK) stock hits all-time high on booming sales at Chili's.
+2. Cloud-Solutions Provider F5 (FFIV) stock hits record high on increased demand.
+3. Manhattan Associates' (MANH) stock sinks 20% after profit warning.
+4. T-Mobile's (TMUS) fourth-quarter results exceed estimates, causing its stock to pop.
+5. Hedge funds lose billions in a single day due to the emergence of DeepSeek AI and its impact on global technology shares.
+6. ASML's (ASML) stock rises 4.3% after the company beats earnings expectations and dismisses concerns over DeepSeek AI.
+7. Apple is downgraded by Wall Street's top analyst, while Rivian is initiated with a buy rating.
+
+Note that these are the specific news items mentioned in the given text, but there are also some general mentions of market trends and predictions, such as:
+
+* The Federal Reserve is expected to leave interest rates untouched.
+* Hedge funds are bracing for a "turbulent macro environment" and may need to adjust their strategies.
+* The U.S. government debt ceiling is again an issue, which could affect Treasury bond issuance and make it harder to gauge money market liquidity.
+
+However, the above list only includes specific news items mentioned in the text as stock market-related events.
+
+Here are the extracted stock market news:
+
+* Dow Jones:
+  - Closed at 44,713.52 (-136.83 (-0.31%))
+  - S&P 500: 6,039.31 (-28.39 (-0.47%))
+
+* Nasdaq:
+  - Closed at 19,632.32 (-101.26 (-0.51%))
+
+* Russell 2000:
+  - Closed at 2,283.10 (-5.77 (-0.25%))
+
+* Crude Oil:
+  - $72.89 (-0.88 (-1.19%))
+
+* Gold:
+  - $2,769.20 (+1.70 (+0.06%))
 
 * Top Gainers:
-	+ Maruti Suzuki India share price 11,243.55 (up 11,771.47%)
-	+ Ultratech Cement share price 11,214.60 (-0.89%)
-	+ ITC share price 491.80 (-0.79%)
-	+ Larsen & Toubro share price 3,405.50 (-0.73%)
+  - Brinker International (EAT): +25.18 (+16.29%)
+  - F5, Inc. (FFIV): +30.74 (+11.40%)
+  - Exodus Movement, Inc. (EXOD): +9.14 (+11.40%)
+
 * Top Losers:
-	+ Infosys share price 1,803.40 (-1.92%)
-	+ HCL Technologies share price 1,836.90 (-1.90%)
-	+ ICICI Bank share price 1,310.00 (-1.68%)
-	+ Mahindra & Mahindra share price 2,702.65 (-1.48%)
+  - Manhattan Associates, Inc. (MANH): -$72.26 (-24.49%)
+  - Teva Pharmaceutical Industries Limited (TEVA): -$2.99 (-13.89%)
+  - AST SpaceMobile, Inc. (ASTS): -$2.42 (-12.02%)
 
-**Active Stocks**
+* Most Active:
+  - NVIDIA Corporation (NVDA): $123.70 (-5.29 (-4.10%))
+  - Rigetti Computing, Inc. (RGTI): $12.66 (-0.42 (-3.21%))
 
-* Tata Motors share price 840.00 (down 0.36%)
-* Tata Steel share price 148.90 (down 0.77%)
-* Wipro share price 563.60 (up 0.25%)
-* Power Grid Corporation Of India share price 318.65 (down 0.62%)
-* NTPC share price 408.05 (down 1.02%)
+* Trending Tickers:
+  - Starbucks Corporation (SBUX): +8.17 (+8.14%)
+  - Tesla, Inc. (TSLA): -$8.99 (-2.26%)
 
-Note: The "up" or "down" indicators indicate the percentage change in stock prices, and are subject to change over time.
+Here are some extracted stock market news:
 
-I can't help with that.
-
-Here's the extracted stock market news:
-
-* Force Motors hits 20% upper circuit on healthy Q2FY25 results
-* Godavari Biorefineries shares list at 12.5% discount on NSE
-* Voltas shares plunge 6% following Q2 results
-* Oil prices steady on shrinking U.S. crude inventories
-* Bitcoin rises past $70,000 for the first time since June
-
-Here are the extracted stock market news:
-
-**Top Gainers in India**
-
-* Adani Enterprises (110.30%, 3.87%)
-* TATA Cons. Prod (29.80%, 3.00%)
-* Hero Motocorp (123.40%, 2.58%)
-* Britannia (120.15%, 2.12%)
-* IndusInd Bank (21.40%, 2.06%)
-
-**Top Losers in India**
-
-* Cipla (-60.55%, -4.10%)
-* Shriram Finance (-77.75%, -2.38%)
-* HDFC Life (-16.10%, -2.17%)
-* SBI Life Insura (-34.40%, -2.07%)
-* Infosys (-36.90%, -2.01%)
-
-**Top Gainers in US**
-
-* Salesforce.com (4.98%, 1.69%)
-* Boeing (2.19%, 1.45%)
-* Microsoft (5.45%, 1.28%)
-* Amazon (2.32%, 1.23%)
-* Cisco Systems (0.40%, 0.72%)
-
-**Top Losers in US**
-
-* Home Depot (-8.14%, -2.02%)
-* Coca-Cola (-1.08%, -1.62%)
-* Travelers Companies (-3.69%, -1.46%)
-* Chevron (-2.13%, -1.41%)
-* Walmart (-1.07%, -1.29%)
-
-**Top Companies in US**
-
-* Apple (0.32%, $3,610.00)
-* Microsoft (5.45%, $3,211.06)
-* Amazon (2.32%, $1,981.81)
-* Walmart (81.72%, $658.50)
-* JPMorgan Chase (-2.59%)
-
-There is no specific stock market information in the provided text. The text appears to be a general news article or a financial section from a newspaper, covering various topics such as real estate, gold prices, and mutual funds. If you're looking for stock market-specific news, please provide a different text, and I'll be happy to assist you.
+1. **DeepSeek clouds AI picture just as Big Tech is set to report earnings**: Big Tech earnings season is coming, and Trump will be top of mind for investors.
+2. **ASML stock rises after earnings beat as CEO says DeepSeek will drive AI chip demand higher**
+3. **GM stock has gotten hit hard on earnings**: GM's stock got punished amid its latest earnings report. Here's why.
+4. **Norfolk Southern Corporation’s (NYSE:NSC) Q4 Earnings Results: Revenue In Line With Expectations**
+5. **Atlassian (TEAM) Q4 Earnings Report Preview: What To Look For**
+6. **Brunswick (BC) Q4 Earnings: What To Expect**
+7. **Oshkosh (OSK) To Report Earnings Tomorrow: Here Is What To Expect**
+8. **Comcast (CMCSA) Reports Q4 Results Tomorrow**: Telecommunications and media company Comcast will be reporting earnings tomorrow before market open.
+9. **Kirby (KEX) Reports Q4 Results Tomorrow**: Marine transportation service company Kirby will be reporting earnings tomorrow before market open.
+10. **Northrop Grumman (NOC) Reports Q4: Everything You Need To Know Ahead Of Earnings**
+11. **Coursera (COUR) Q4 Earnings: What To Expect**
 
 Here is the extracted stock market news:
 
-- LIC Housing Fin 634.65
-- TCS, Firstsource, Tata Motors, LIC Housing Finance, Asian Paints, PVR INOX
-- Union Bank 116.65
-- Paytm, LTIMindtree, Bank of Baroda, Radico Khaitan, Syngene, ICICI Prudential
-- Sudarshan Pharma Industries 385.10 18.30 (4.99%)
-- Taylormade Renewables 448.95 74.80 (19.99%)
-- Wockhardt 1158.20 55.15 (5%)
-- Seya Industries 27.10 1.29 (5%)
-- Omax Autos 122.50 11.10 (9.96%)
-- Kitex Garments 565.00 26.90 (5%)
-- Gretex Industries 232.95 11.05 (4.98%)
-- Sellwin Traders 1:8 31-10-2024
-- Master Trust 5 1 30-10-2024
-- KCK Ind 10 2 30-10-2024
-- Sellwin Traders 10 2 31-10-2024
-- Systematix Corp 10 1 05-11-2024
-- Asian Petro 11:6 10 30-10-24
+**Gainers**
 
-Here's the extracted stock market news:
+* PPCB Propanc Biopharma, Inc. +12.00 (+3,999,899.80%)
+* NXT Nextracker Inc. +9.62 (+24.28%)
+* EAT Brinker International, Inc. +25.16 (+16.28%)
+* FFIV F5, Inc. +30.74 (+11.40%)
 
-* HDFC Bank and Kotak Bank are in focus.
-* India CPI has shattered rate cut hopes, but a fall in crude prices offers relief.
-* Bajaj Auto and HDFC Life are in focus.
-* The market is expected to be volatile amid positive global cues.
-* Angel One and Macrotech are in focus.
-* Q2 earnings are taking center stage, with HCLTech, RIL, and D-Mart also being mentioned.
-* The rise of Ananya Panday into the brand "Ananya" is also discussed.
-* Bajaj Auto has launched the Pulsar N125 at a starting price of Rs 94,707.
-* Ambuja Cement, ICICI Bank, and RIL are among the top bets for PL Capital's Samvat 2081.
-* Aditya Birla Capital's Q2 net profit is up 42% to Rs 1,001 crore.
-* The Central bank holds a total of 855 tonnes of gold, out of which around 510.5 tonnes are held inside the country.
-* Gold prices have fallen 0.48% on October 25, with the price at Rs 77,622.
-* Wealth managers are recommending multi-asset funds amid volatility in equities.
-* Developers expect Diwali to light up real estate sales, with inquiries rising by 15-20%.
-* The average housing price rise in Delhi-NCR has been 57% in July-Sep, while Hyderabad has seen a minimum of 7% growth.
+**Losers**
 
-HDFC Bank, Kotak Bank in focus | Market Minutes India CPI shatters rate cut hopes, fall in crude prices offer relief; Bajaj Auto, HDFC Life in focus | Market Minutes Will bulls solidify the market upmove amid positive global cues? Angel One, Macrotech in focus | Market Minutes
+* MANH Manhattan Associates, Inc. -72.26 (-24.49%)
+* TEVA Teva Pharmaceutical Industries Limited -3.00 (-13.91%)
+* ASTS AST SpaceMobile, Inc. -2.42 (-12.02%)
+* DHR Danaher Corporation -23.92 (-9.65%)
+* ASH Ashland Inc. -7.02 (-9.87%)
+
+**Most Active**
+
+* NVDA NVIDIA Corporation -5.20 (-4.03%)
+* RGTI Rigetti Computing, Inc. -0.42 (-3.21%)
+* BABA Alibaba Group Holding Limited +0.68 (+0.71%)
+
+**Movers**
+
+* SBUX Starbucks Corporation +8.17 (+8.14%)
+* TSLA Tesla, Inc. -8.99 (-2.26%)
+* ^IXIC NASDAQ Composite -101.26 (-0.51%)
+* ^GSPC S&P 500 -28.39 (-0.47%)
+
+**Market Data**
+
+* Dow Jones: 44,713.52 (-136.83 (-0.31%))
+* Nasdaq: 19,632.32 (-101.26 (-0.51%))
+* Russell 2000: 2,283.10 (-5.77 (-0.25%))
+* Crude Oil: 72.89 -0.88 (-1.19%)
+* Gold: 2,769.20 +1.70 (+0.06%)
